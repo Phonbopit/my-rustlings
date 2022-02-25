@@ -3,5 +3,5 @@
 // Execute `rustlings hint intro2` for a hint.
 
 fn main() {
-    println!("Hello {}!");
+    println!("Hello {}!", "World");
 }
